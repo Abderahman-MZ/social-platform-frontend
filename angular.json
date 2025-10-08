@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "social-platform-frontend": {
+      "root": "",
+      "sourceRoot": "src",
+      "projectType": "application"
+    }
+  }
+}
